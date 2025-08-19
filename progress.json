@@ -118,50 +118,5 @@
       "Great work creating a fork with Github!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1755612094.995714,
-    "completed_at": 1755612096.852743,
-    "comments": [
-      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1755612151.681595,
-    "completed_at": 1755612153.169388,
-    "comments": [
-      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1755612333.324773,
-    "completed_at": 1755612335.391392,
-    "comments": [
-      "The origin remote does not point to your fork!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1755612402.380984,
-    "completed_at": 1755612404.208289,
-    "comments": [
-      "The origin remote does not point to your fork!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1755612507.533408,
-    "completed_at": 1755612509.253065,
-    "comments": [
-      "The origin remote does not point to your fork!"
-    ],
-    "status": "Incomplete"
   }
 ]
