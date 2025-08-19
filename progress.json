@@ -52,5 +52,14 @@
       "Great work with using git remote to add an upstream remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755588283.261778,
+    "completed_at": 1755588283.263924,
+    "comments": [
+      "/Users/jasonnathanchang/test/gitmastery/gitmastery-exercises/push-over/push-this"
+    ],
+    "status": "Error"
   }
 ]
